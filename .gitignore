@@ -1,0 +1,6 @@
+virtenv
+app/database.db
+app/database.py
+app/__pycache__
+app/__init__.py
+app/.env
