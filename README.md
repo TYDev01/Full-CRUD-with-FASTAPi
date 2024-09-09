@@ -8,4 +8,4 @@
 run <code>pip install -r requirements.txt</code> (To install the neccessary packages)
 <br>
 <p>start the app with</p>
-<code>'fastapi dev main.py</code>
+<code>'fastapi dev main.py'</code>
